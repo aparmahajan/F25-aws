@@ -1,4 +1,4 @@
-# Week 3: Using a Virtual Machine
+# Using a Virtual Machine
 
 Link to [Slides](https://docs.google.com/presentation/d/10U5awaNJtmPIDIhdowj_YOSqmX6oWlHVStUNK2FZmPY/edit?usp=sharing) and [Recording](https://docs.google.com/presentation/d/10U5awaNJtmPIDIhdowj_YOSqmX6oWlHVStUNK2FZmPY/edit?usp=sharing)
 
