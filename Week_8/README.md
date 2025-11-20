@@ -1,4 +1,4 @@
-# Week 8: Infrastructure as Code
+# Infrastructure as Code
 
 
 In this tutorial, we'll be translating the front end of our app to use AWS's Cloud Development Kit (CDK). To do so, we choose to leverage AWS's python Software Development Kit (SDK) - so write out application infrastructure using python.
